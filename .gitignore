@@ -1,0 +1,17 @@
+# Python - Entorno virtual y temporales
+venv/
+__pycache__/
+*.py[cod]
+
+# Node.js - Dependencias de Frontend
+node_modules/
+.next/
+dist/
+
+# Sistema y IDEs
+.DS_Store
+.vscode/
+
+# Variables de entorno (Secretos)
+.env
+
